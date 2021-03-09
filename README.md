@@ -1,5 +1,5 @@
 # FineTunningVGG16
-## *VGG16 Fine-Tuning with camera trap images*  
+## *VGG16 Fine-Tuning to classify camera trap images*  
 
 ### Description: This file describes steps on how to use trained model to predicts species from camera trap images.          
 
